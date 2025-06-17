@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=AAAAAA&width=500&lines=Hi+I'm+Ibra+Decode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=AAAAAA&width=500&lines=🚼+|+Ibra+Decode" alt="Typing SVG" />
 </p>
 
 <!-- Rotating Chip Animation (can be customized) -->
@@ -10,15 +10,28 @@
 
 <!-- Stylish Capsule Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=666666&height=150&section=header&text=Ibra%20Decode&fontSize=40&animation=fadeIn&fontColor=eeeeee" alt="header" />
+  <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/coderman.gif" alt="header" />
+</p>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
 ## 👋 Welcome to My GitHub
 
-Hi, I'm **Ibra**, a passionate **Newbie Front-End Developer**.
+<p align="left">
+<a href="https://github.com/IbraDecode">
+<img  src="https://readme-components.vercel.app/api?component=text&text=HI%20IM%20IBRA%20DECODE&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
+</a>
 
+</p>
 ```bash
-Skills: HTML / CSS / JavaScript / React / Python / PHP
+╭━━┳━━╮╭━━━┳━━━╮
+╰┫┣┫╭╮┃┃╭━╮┃╭━╮┃
+╱┃┃┃╰╯╰┫╰━╯┃┃╱┃┃
+╱┃┃┃╭━╮┃╭╮╭┫╰━╯┃
+╭┫┣┫╰━╯┃┃┃╰┫╭━╮┃
+╰━━┻━━━┻╯╰━┻╯╱╰╯
 ```
 - 🔭 I’m currently working on fun React projects
 - 🌱 I’m currently learning everything front-end
