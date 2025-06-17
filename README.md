@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/5i5vwe.jpg" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://files.catbox.moe/5i5vwe.jpg" width="1200" height="400" style="border-radius: 50%;" />
 </p>
 <!-- Animated Typing Intro -->
 <p align="center">
