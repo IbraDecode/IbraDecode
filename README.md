@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/raghavk16/raghavk16/master/coderman.gif" alt="header" />
 </p>
-<img  src="https://readme-components.vercel.app/api?component=text&text=NEWBIE%20FRONT%20END%20DEV&fill=linear-gradient(to%20top,%20%23d1d1d1%200%25,%20%23f0f0f0%20100%25)">
+<img  src="https://readme-components.vercel.app/api?component=text&text=FULL%20STACK%20DEV&fill=linear-gradient(to%20top,%20%23d1d1d1%200%25,%20%23f0f0f0%20100%25)&textfill=black">
 </a>
 </p>
 <p align="center">
