@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IbraDecode.png" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://files.catbox.moe/ptibps.jpg" width="150" height="150" style="border-radius: 50%;" />
 </p>
 <!-- Animated Typing Intro -->
 <p align="center">
