@@ -3,7 +3,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Ibra+Decode;Newbie+Front+End+Dev;Learning+React+and+JS!&font=Fira+Code&center=true&width=440&height=50&color=61DAFB&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=
+█░█ ▄▀█ █
+█▀█ █▀█ █+
+█▀ ▄▀█ █▄█ ▄▀█
+▄█ █▀█ ░█░ █▀█+
+█ █▄▄ █▀█ ▄▀█
+█ █▄█ █▀▄ █▀█+Decode;Newbie+Front+End+Dev;Learning+React+and+JS!&font=Fira+Code&center=true&width=440&height=50&color=61DAFB&vCenter=true&size=22" />
 </p>
 
 <p align="center">
