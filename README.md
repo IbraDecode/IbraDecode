@@ -1,4 +1,6 @@
-<img src="https://github.com/IbraDecode.png" width="150" style="border-radius: 50%;" />
+<p align="center">
+  <img src="https://github.com/IbraDecode.png" width="150" height="150" style="border-radius: 50%;" />
+</p>
 <!-- Animated Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=AAAAAA&width=500&lines=Ibra+Decode" alt="Typing SVG" />
