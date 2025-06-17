@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Ibra+Decode;Cool+Front-End+Newbie+Developer;React+%2F+JavaScript+%2F+UI;Focus+on+Clean+Code+%26+Learning" alt="Typing SVG">
 </p>
 
-<h1 align="center">Welcome to Ibra Decode's Space</h1>
+<h1 align="center">🌠Welcome to Ibra Decode's Space🌌</h1>
 
 <pre align="center">
  ____  _               ____                      _           
