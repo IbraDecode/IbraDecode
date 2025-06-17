@@ -4,7 +4,7 @@
 
 <!-- Animated Typing Intro with Gradient -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Ibra;Full+Stack+Dev;Code+Enthusiast;UI%2FUX+Lover&color=58A6FF&background=FFFFFF00" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=500&lines=Hi+I'm+Ibra;Full+Stack+Dev;Code+Enthusiast;UI%2FUX+Lover&color=58A6FF&background=FFFFFF00" alt="Typing SVG" />
 </p>
 
 <!-- Animated Divider -->
