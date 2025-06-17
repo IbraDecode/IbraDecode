@@ -9,7 +9,7 @@
 </p>
 <p align="left">
 <a href="https://github.com/IbraDecode">
-<img  src="[Hi Im Ibra](https://readme-components.vercel.app/api?component=text&text=HI%20IM%20IBRA&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B)">
+<img  src="https://readme-components.vercel.app/api?component=text&text=HI%20IM%20IBRA&fill=linear-gradient%28to%20top%2C%20%23a18cd1%200%25%2C%20%23fbc2eb%20100%25%29%3B">
 </a>
 </p>
 <!-- Stylish Capsule Header -->
