@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/5i5vwe.jpg" width="100%" alt="Ibra Decode Banner"/>
+  <img src="https://files.catbox.moe/5i5vwe.jpg" width="200%" alt="Ibra Decode Banner"/>
 </p>
 
 <h1 align="center">✨ Welcome to My World! ✨</h1>
