@@ -6,11 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=AAAAAA&width=500&lines=Ibra+Decode" alt="Typing SVG" />
 </p>
 
-<div style="border: 2px dashed gray; padding: 10px; border-radius: 10px; background-color: #f9f9f9;">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    🔥 Welcome to Ibra Decode GitHub Profile! 🚀 Front-End Dev in Progress 💻
-  </marquee>
-</div>
 <!-- Rotating Chip Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="chip rotating" width="300" />
