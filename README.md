@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=AAAAAA&width=500&lines=🚼+|+Ibra+Decode" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&color=AAAAAA&width=500&lines=Ibra+Decode" alt="Typing SVG" />
 </p>
 
 <!-- Rotating Chip Animation (can be customized) -->
@@ -25,14 +25,6 @@
 </a>
 
 </p>
-```bash
-╭━━┳━━╮╭━━━┳━━━╮
-╰┫┣┫╭╮┃┃╭━╮┃╭━╮┃
-╱┃┃┃╰╯╰┫╰━╯┃┃╱┃┃
-╱┃┃┃╭━╮┃╭╮╭┫╰━╯┃
-╭┫┣┫╰━╯┃┃┃╰┫╭━╮┃
-╰━━┻━━━┻╯╰━┻╯╱╰╯
-```
 - 🔭 I’m currently working on fun React projects
 - 🌱 I’m currently learning everything front-end
 - 💬 Ask me about front-end basics, GitHub, and simple UI
